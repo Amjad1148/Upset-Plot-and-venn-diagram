@@ -46,6 +46,7 @@
 
 
 ```
+![image](https://github.com/user-attachments/assets/cc48b617-2ccf-41da-8f96-36a6bd0fc56e)
 
 ```
 
@@ -90,6 +91,7 @@
                   grid.draw(venn.plot)
 
 ```
+![image](https://github.com/user-attachments/assets/a89b775a-1bad-4821-883d-306106152e4e)
 
 
 
